@@ -9,7 +9,7 @@ public:
         map<char, char> store = {{ ')', '('}, {']', '['}, {'}', '{'}};
         stack<char> values;
 
-        if(s[0] == ']' || s[0] == '}' || s[0] == ')') return false;
+        // if(s[0] == ']' || s[0] == '}' || s[0] == ')') return false;
 
         for (int i = 0; i< s.length(); i++){
             if(s[i] == '{' || s[i] == '(' || s[i] == '['){

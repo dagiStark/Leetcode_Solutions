@@ -10,19 +10,25 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        List<Integer> values = new ArrayList<>();
-        while (head != null) {
-            values.add(head.val);
-            head = head.next;
+       Stack<Integer> stack = new Stack<>();
+       Queue<Integer> queue = new LinkedList<>();
+
+       ListNode curr = head;
+       while(curr != null){
+        stack.push(curr.val);
+        curr = curr.next;
+       }
+       ListNode currQ = head;
+       while(currQ != null){
+        queue.add(currQ.val);
+        currQ = currQ.next;
+       }
+       while(!stack.isEmpty() && !queue.isEmpty()){
+        if(stack.pop() != queue.remove()){
+            return false;
         }
-        int i = 0, j = values.size() - 1;
-        while (i < j) {
-            if (!values.get(i).equals(values.get(j))) {
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
+       }
+
+       return stack.isEmpty() && queue.isEmpty();
     }
 }

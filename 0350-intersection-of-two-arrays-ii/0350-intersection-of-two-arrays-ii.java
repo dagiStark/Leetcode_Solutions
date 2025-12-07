@@ -1,23 +1,25 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        Stack<Integer> ans = new Stack<>();
-      Stack<Integer> search = new Stack<>();
-
-      for(int i: nums1){
-         ans.add(i);
-      }
-
-      for(int i : nums2){
-         if(ans.remove((Integer) i)){
-            search.add(i);
-         }
-      }
-      int[] solution = new int[search.size()];
-      int j =0;
-      for(int i: search){
-         solution[j] = i;
-         j++;
-      }
-      return solution;
+    Map<Integer, Integer> map = new HashMap<>();
+    
+    for (int num : nums1) {
+        map.put(num, map.getOrDefault(num, 0) + 1);
     }
+
+    List<Integer> resultList = new ArrayList<>();
+    
+    for (int num : nums2) {
+        if (map.containsKey(num) && map.get(num) > 0) {
+            resultList.add(num);
+            map.put(num, map.get(num) - 1); 
+        }
+    }
+    
+    int[] result = new int[resultList.size()];
+    for (int i = 0; i < resultList.size(); i++) {
+        result[i] = resultList.get(i);
+    }
+    return result;
+}
+
 }

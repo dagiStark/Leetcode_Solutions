@@ -15,15 +15,25 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) {
-            return 0;
-        }
+        // If there is no node, return 0
+    if (root == null) {
+        return 0;
+    }
 
-        int currentVal = (root.val >= low && root.val <= high) ? root.val : 0;
+    int sum = 0;
 
-        int leftSum = rangeSumBST(root.left, low, high);
-        int rightSum = rangeSumBST(root.right, low, high);
+    // If the current node's value is in the range,
+    // add it to the sum
+    if (root.val >= low && root.val <= high) {
+        sum += root.val;
+    }
 
-        return currentVal + leftSum + rightSum;
+    // Add the sum from the left side of the tree
+    sum += rangeSumBST(root.left, low, high);
+
+    // Add the sum from the right side of the tree
+    sum += rangeSumBST(root.right, low, high);
+
+    return sum;
     }
 }

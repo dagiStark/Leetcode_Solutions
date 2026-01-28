@@ -1,36 +1,56 @@
-import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 
 class MyStack {
-    private ArrayList<Integer> stack; // list to store stack elements
 
-    // Constructor: create empty stack
+    private Queue<Integer> q1;
+    private Queue<Integer> q2;
+
     public MyStack() {
-        stack = new ArrayList<>();
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
     }
-    
-    // Push element onto the stack
+
+    // Push element x onto stack.
     public void push(int x) {
-        stack.add(x); // add to the end of the list (top of the stack)
+        q1.offer(x);
     }
-    
-    // Remove and return the top element
+
+    // Removes the element on top of the stack and returns it.
     public int pop() {
-        if (!stack.isEmpty()) {
-            return stack.remove(stack.size() - 1); // remove last element
+        while (q1.size() > 1) {
+            q2.offer(q1.poll());
         }
-        return -1; // or throw exception if you want
+
+        int top = q1.poll(); // last element
+
+        // swap q1 and q2
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
+
+        return top;
     }
-    
-    // Return the top element without removing it
+
+    // Get the top element.
     public int top() {
-        if (!stack.isEmpty()) {
-            return stack.get(stack.size() - 1); // last element is the top
+        while (q1.size() > 1) {
+            q2.offer(q1.poll());
         }
-        return -1; // or throw exception if you want
+
+        int top = q1.peek();   // don't remove yet
+        q2.offer(q1.poll());   // move it to q2
+
+        // swap queues
+        Queue<Integer> temp = q1;
+        q1 = q2;
+        q2 = temp;
+
+        return top;
     }
-    
-    // Check if the stack is empty
+
+    // Returns whether the stack is empty.
     public boolean empty() {
-        return stack.isEmpty();
+        return q1.isEmpty();
     }
 }

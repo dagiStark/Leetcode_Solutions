@@ -29,4 +29,12 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->

@@ -15,11 +15,13 @@
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@
 | [0100-same-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

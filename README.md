@@ -17,6 +17,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->

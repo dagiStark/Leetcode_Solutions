@@ -18,7 +18,7 @@ class Solution {
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
 
-        while(curr != null || stack.isEmpty()){
+        while(curr != null || !stack.isEmpty()){
             while(curr != null){
                 stack.push(curr);
                 curr = curr.left;

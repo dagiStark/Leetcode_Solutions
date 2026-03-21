@@ -4,7 +4,8 @@ class Solution {
         dummy = head;
         
         
-        
+        if(dummy == null) return head;
+        if(dummy.val == val) return removeElements(dummy.next, val);
         while (dummy.next != null) {
             if (dummy.next.val == val) {
                 dummy.next = dummy.next.next; // remove node

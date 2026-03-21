@@ -8,6 +8,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 ## Tree
@@ -94,6 +95,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers

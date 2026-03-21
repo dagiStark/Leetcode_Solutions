@@ -8,6 +8,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

@@ -1,19 +1,36 @@
+import java.util.Stack;
+
 class Solution {
 
-    TreeNode prev = null;
-
     public boolean isValidBST(TreeNode root) {
-        return inorder(root);
-    }
 
-    private boolean inorder(TreeNode node) {
-        if (node == null) return true;
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode current = root;
+        TreeNode previousNode = null;
 
-        if (!inorder(node.left)) return false;
+        while (current != null || !stack.isEmpty()) {
 
-        if (prev != null && node.val <= prev.val) return false;
-        prev = node;
+            // Step 1: Go all the way left
+            while (current != null) {
+                stack.push(current);
+                current = current.left;
+            }
 
-        return inorder(node.right);
+            // Step 2: Visit node
+            current = stack.pop();
+
+            // Step 3: Check BST condition
+            if (previousNode != null && current.val <= previousNode.val) {
+                return false;
+            }
+
+            // Step 4: Update previous
+            previousNode = current;
+
+            // Step 5: Go right
+            current = current.right;
+        }
+
+        return true;
     }
 }

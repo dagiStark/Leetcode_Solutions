@@ -137,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -156,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->

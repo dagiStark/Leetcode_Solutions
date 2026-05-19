@@ -81,6 +81,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
@@ -132,6 +134,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |

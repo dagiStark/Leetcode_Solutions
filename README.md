@@ -140,6 +140,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -161,4 +162,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->

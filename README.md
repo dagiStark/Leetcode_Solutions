@@ -126,6 +126,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |

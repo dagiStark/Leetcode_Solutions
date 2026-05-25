@@ -2,38 +2,34 @@ import java.util.*;
 
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
+
+        // 1. Count frequency of each number
         Map<Integer, Integer> freq = new HashMap<>();
 
-        // Count frequencies
         for (int num : nums) {
             freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
 
-        // Bucket array: index = frequency
-        List<Integer>[] buckets = new List[nums.length + 1];
+        // 2. Min heap (sorted by frequency)
+        PriorityQueue<Integer> heap = new PriorityQueue<>(
+            (a, b) -> freq.get(a) - freq.get(b)
+        );
 
-        for (int key : freq.keySet()) {
-            int count = freq.get(key);
+        // 3. Add numbers to heap
+        for (int num : freq.keySet()) {
+            heap.add(num);
 
-            if (buckets[count] == null)
-                buckets[count] = new ArrayList<>();
-
-            buckets[count].add(key);
+            // keep only k elements in heap
+            if (heap.size() > k) {
+                heap.poll(); // remove smallest frequency
+            }
         }
 
+        // 4. Get result
         int[] result = new int[k];
-        int idx = 0;
 
-        // Traverse from highest frequency
-        for (int i = buckets.length - 1; i >= 0 && idx < k; i--) {
-            if (buckets[i] != null) {
-                for (int num : buckets[i]) {
-                    result[idx++] = num;
-
-                    if (idx == k)
-                        break;
-                }
-            }
+        for (int i = 0; i < k; i++) {
+            result[i] = heap.poll();
         }
 
         return result;

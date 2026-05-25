@@ -145,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -141,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -166,4 +167,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->

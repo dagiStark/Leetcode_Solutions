@@ -134,6 +134,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dagiStark/Leetcode_Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@
 | [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1472-design-browser-history/) | Medium |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dagiStark/Leetcode_Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dagiStark/Leetcode_Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +192,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dagiStark/Leetcode_Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

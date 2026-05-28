@@ -69,6 +69,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0257-binary-tree-paths](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dagiStark/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
@@ -131,6 +132,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -172,6 +174,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dagiStark/Leetcode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
